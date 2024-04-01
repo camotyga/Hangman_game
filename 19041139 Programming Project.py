@@ -1,4 +1,4 @@
-#Oghenetega Emagha 19041139 Programming Project
+#Oghenetega Emagha Programming Project
 import random
 import turtle
 
