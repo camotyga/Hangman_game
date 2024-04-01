@@ -9,9 +9,11 @@ Enter your name when prompted to start the game.
 Guess letters one by one to try to uncover the hidden word.
 Each incorrect guess will result in a part of the ambulance being drawn.
 Guess the word correctly before the ambulance is fully drawn to win the game.
+
 Requirements:
 Python 3.x
 Turtle graphics library (usually included in standard Python installations)
+
 Features:
 Random word selection from a predefined list.
 Visual representation of the hangman's ambulance using Turtle graphics.
